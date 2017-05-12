@@ -1,4 +1,6 @@
-# Hammer.js 2.0.6
+# Hammer.js 2.1.0
+
+BASED ON 2.0.7 last working version for cb-web-app, any updates work from 2.0.7 branch
 
 [![Build Status](https://travis-ci.org/hammerjs/hammer.js.svg)](https://travis-ci.org/hammerjs/hammer.js)
 
